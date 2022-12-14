@@ -17,7 +17,7 @@ const galleryMarkup = galleryItems.map(({preview, original, description}) =>
 
 galleryEl.innerHTML = galleryMarkup;
 
-// console.log(galleryMarkup);
+// console.log(basicLightbox);
 
 
 // console.log(galleryItems);
